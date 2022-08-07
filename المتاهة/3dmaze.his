@@ -1,0 +1,6 @@
+History:
+
+11/13/95  Old pen selected before current pen is deleted; system resources are
+  no longer depleted as mazes are drawn again and again.
+
+11/25/95  32-bit color no longer causes an overflow.
