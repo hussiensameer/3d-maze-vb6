@@ -1,9 +1,9 @@
                                3DMaze -- Maze Game
 
-                              Version 1.2 (11/25/95)
+                              
 
 
-     Generate and solve mazes under Windows 95.
+     Generate and solve mazes 
 
      The mazes are displayed in three dimensions.
 
@@ -34,11 +34,5 @@ controlling the scroll bar after a maze is solved.
      Each maze has exactly one solution that does not involve backtracking
 (passing through a doorway more than once).
 
-     The Visual Basic 4.0 source code is included with this application.  I,
-James L. Dean, am the author of the source code.  Select "About" on the menu
-bar for information about distributing this application, etc.
-
-     This is my first Visual Basic program.  Send compliments or constructive
-criticism to my Email address -- csvcjld@nomvs.lsumc.edu.
-
+     The Visual Basic 4.0 source code is included with this application. 
      Enjoy!
